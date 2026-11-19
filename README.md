@@ -1,4 +1,5 @@
 # Kelvia — billetterie en ligne de festivals
+![ci](https://github.com/Anttou/kelvia-api/actions/workflows/ci.yml/badge.svg)
 
 > Cas fictif, exercice pédagogique.
 
